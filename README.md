@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React lazy loading
 
 - lazy loading demo
 - refereed article link. :
